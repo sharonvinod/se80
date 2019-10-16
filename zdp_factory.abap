@@ -3,7 +3,7 @@
 *&
 *&---------------------------------------------------------------------*
 *& Description    : This program demonstrates ABAP Factory Method
-*&                  Design Pattern
+*&                  Design Pattern using HR concepts
 *& Program Author : Sharon Vinod
 *&---------------------------------------------------------------------*
  
