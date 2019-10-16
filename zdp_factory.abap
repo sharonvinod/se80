@@ -1,13 +1,13 @@
 *&---------------------------------------------------------------------*
-*& Report  ZDP_FACTORY_METHOD
+*& Report  ZDP_FACTORY
 *&
 *&---------------------------------------------------------------------*
 *& Description    : This program demonstrates ABAP Factory Method
 *&                  Design Pattern
-*& Program Author : ABAPTutorial.com
+*& Program Author : Sharon Vinod
 *&---------------------------------------------------------------------*
  
-REPORT  zdp_factory_method.
+REPORT  zdp_factory.
  
 *----------------------------------------------------------------------*
 *       CLASS lcl_sale_document DEFINITION
